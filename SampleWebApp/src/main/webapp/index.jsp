@@ -1,7 +1,7 @@
 <html>
   <style>
 body {
-  background-color: LightCoral;
+  background-color: steel blue;
 }
 
 h1 {
