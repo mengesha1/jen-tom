@@ -1,7 +1,7 @@
 <html>
   <style>
 body {
-  background-color: Glaucous;
+  background-color: lightgreen;
 }
 
 h1 {
