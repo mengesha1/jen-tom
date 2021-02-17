@@ -1,4 +1,8 @@
+<!DOCTYPE html>
 <html>
+  <html lang="en">
+    <title> sonarqube</title>
+    
 <body>
   <h4>My lovely Nathan</h4>
 <h2>Hello World2</h2>
