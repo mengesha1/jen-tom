@@ -2,7 +2,7 @@
 <lang="en">
 
  <head>
-  <title>SonarQube</title>
+  <title>Jenkines,Tomcat,SonarQube,and Nexus</title>
 </head> 
     
     
