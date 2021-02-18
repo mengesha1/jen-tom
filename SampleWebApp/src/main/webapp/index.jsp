@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<lang="en">
+<!---<!DOCTYPE html>
+<lang="en"> --->
 
  <head>
   <title>Jenkines,Tomcat,SonarQube,and Nexus</title>
@@ -8,8 +8,8 @@
     
 <body>
   
-   <!--- <h4>My lovely Nathan and Amen</h4> ->
-   <h1>My lovely Nathan and Amen</h1> 
+  
+ <!---  <h2>My lovely Nathan and Amen</h2> --->
 <h2>Hello World</h2>
 <svg height="30" width="200">
   <text x="0" y="15" fill="red">God is LOVE!!!</text>
