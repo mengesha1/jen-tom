@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<lang="en"> 
+
 
  <head>
   <title>Jenkines,Tomcat,SonarQube,and Nexus</title>
