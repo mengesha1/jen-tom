@@ -1,20 +1,20 @@
 
 
  <head>
-<!---  <title>Jenkines,Tomcat,SonarQube,and Nexus</title> --->
+<title>Jenkines,Tomcat,SonarQube,and Nexus</title> 
 </head> 
     
     
 <body>
   
-	<!---  <p>Test page</p>--->
+  <p>Test page</p>
    <h2>My lovely Nathan and Amen</h2> 
 <h2>Hello World</h2>
 <svg height="30" width="200">
 
   <p>Test page</p> 
    <h2>My lovely NatAmen</h2> 
-<h2>Hello World</h2>
+<h2>Hello World10</h2>
 <svg height="30" width="200"> 
 
   <text x="0" y="15" fill="red">God is LOVE!!!</text>
