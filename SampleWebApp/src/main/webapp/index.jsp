@@ -1,13 +1,12 @@
 
 
  <head>
-  <title>Jenkines,Tomcat,SonarQube,and Nexus</title>
+<!---  <title>Jenkines,Tomcat,SonarQube,and Nexus</title> --->
 </head> 
     
     
 <body>
   
-
 	<!---  <p>Test page</p>--->
    <h2>My lovely Nathan and Amen</h2> 
 <h2>Hello World</h2>
