@@ -1,13 +1,13 @@
 
 
-<!--- <head>
+ <head>
   <title>Jenkines,Tomcat,SonarQube,and Nexus</title>
-</head> --->
+</head> 
     
     
 <body>
   
- <!-- <p>Test page</p> --->
+  <p>Test page</p> 
    <h2>My lovely NatAmen</h2> 
 <h2>Hello World</h2>
 <svg height="30" width="200"> 
